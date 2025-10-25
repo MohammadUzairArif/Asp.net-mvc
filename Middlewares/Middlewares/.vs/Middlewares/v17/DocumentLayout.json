@@ -1,0 +1,96 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc\\Middlewares\\Middlewares\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B49F1967-F9CC-4D4B-A93A-05D90F5514CD}|Middlewares\\Middlewares.csproj|c:\\users\\pmls\\desktop\\asp.net\\mvc\\middlewares\\middlewares\\middlewares\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B49F1967-F9CC-4D4B-A93A-05D90F5514CD}|Middlewares\\Middlewares.csproj|solutionrelative:middlewares\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49F1967-F9CC-4D4B-A93A-05D90F5514CD}|Middlewares\\Middlewares.csproj|c:\\users\\pmls\\desktop\\asp.net\\mvc\\middlewares\\middlewares\\middlewares\\middleware\\middleware3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B49F1967-F9CC-4D4B-A93A-05D90F5514CD}|Middlewares\\Middlewares.csproj|solutionrelative:middlewares\\middleware\\middleware3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49F1967-F9CC-4D4B-A93A-05D90F5514CD}|Middlewares\\Middlewares.csproj|c:\\users\\pmls\\desktop\\asp.net\\mvc\\middlewares\\middlewares\\middlewares\\middlewares.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B49F1967-F9CC-4D4B-A93A-05D90F5514CD}|Middlewares\\Middlewares.csproj|solutionrelative:middlewares\\middlewares.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B49F1967-F9CC-4D4B-A93A-05D90F5514CD}|Middlewares\\Middlewares.csproj|c:\\users\\pmls\\desktop\\asp.net\\mvc\\middlewares\\middlewares\\middlewares\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B49F1967-F9CC-4D4B-A93A-05D90F5514CD}|Middlewares\\Middlewares.csproj|solutionrelative:middlewares\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Middleware3.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc\\Middlewares\\Middlewares\\Middlewares\\Middleware\\Middleware3.cs",
+              "RelativeDocumentMoniker": "Middlewares\\Middleware\\Middleware3.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc\\Middlewares\\Middlewares\\Middlewares\\Middleware\\Middleware3.cs",
+              "RelativeToolTip": "Middlewares\\Middleware\\Middleware3.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T14:37:54.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Middlewares",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc\\Middlewares\\Middlewares\\Middlewares\\Middlewares.csproj",
+              "RelativeDocumentMoniker": "Middlewares\\Middlewares.csproj",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc\\Middlewares\\Middlewares\\Middlewares\\Middlewares.csproj",
+              "RelativeToolTip": "Middlewares\\Middlewares.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-10-25T14:37:23.987Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc\\Middlewares\\Middlewares\\Middlewares\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Middlewares\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc\\Middlewares\\Middlewares\\Middlewares\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Middlewares\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T14:35:35.659Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc\\Middlewares\\Middlewares\\Middlewares\\Program.cs",
+              "RelativeDocumentMoniker": "Middlewares\\Program.cs",
+              "ToolTip": "C:\\Users\\PMLS\\Desktop\\Asp.net\\mvc\\Middlewares\\Middlewares\\Middlewares\\Program.cs",
+              "RelativeToolTip": "Middlewares\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-10-25T14:34:58.125Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e506b91c-c606-466a-90a9-123d1d1e12b3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
